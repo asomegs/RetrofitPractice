@@ -22,7 +22,8 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:ems="10"
-        android:id="@+id/eTextLat" />
+        android:id="@+id/eTextLat"
+        android:text="37.331467" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -37,7 +38,8 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:ems="10"
-        android:id="@+id/eTextLng" />
+        android:id="@+id/eTextLng"
+        android:text="126.849824" />
 
     <Button
         android:layout_width="wrap_content"
